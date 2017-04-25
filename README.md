@@ -1,2 +1,2 @@
 # rpi-bb
-RPI BB
+RPI - BB
